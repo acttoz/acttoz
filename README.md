@@ -1,6 +1,15 @@
-<div align=center><h1>📚 Stack </h1></div>
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 
 <div align=center> 
+   <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <br>
+   
+  <br>
+  <div align=center><h1>📚 Stack </h1></div>
+  <br>
+  <br>
+  
   <img src="https://img.shields.io/badge/unity 3d-000000?style=for-the-badge&logo=unity&logoColor=white"> 
   <img src="https://img.shields.io/badge/csharp-7e2b93?style=for-the-badge&logo=csharp&logoColor=white"> 
   <br>
@@ -39,6 +48,4 @@
   <br>
 </div>
 
-<div style="padding:40px">
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-</div>
+
